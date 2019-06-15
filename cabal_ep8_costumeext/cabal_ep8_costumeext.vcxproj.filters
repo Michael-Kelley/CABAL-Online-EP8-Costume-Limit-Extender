@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\debug.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{338c24e5-5798-4fcb-89ad-0bf214c83cb1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\lz4">
+      <UniqueIdentifier>{d035c126-697c-4724-ae10-e1d3fed6447f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{093782f4-e21d-40e6-891f-cfd5f667cb00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\lz4">
+      <UniqueIdentifier>{701fab77-7ab5-4758-8d75-d30f50fd7110}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
